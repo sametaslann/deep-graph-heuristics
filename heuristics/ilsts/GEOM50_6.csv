@@ -1,0 +1,6 @@
+#date,problem,instance,method,rand_seed,target,use_target,objective,time_limit,nb_max_iterations,initialization,nb_iter_local_search,max_time_local_search,local_search,adaptive,window_size,coeff_exploi_explo,simulation,O_time,P_time
+#2022-10-11 21:30:52,wvcp,GEOM50,local_search,6,40,false,reached,3600,9223372036854775807,constrained,9000000000000000000,3600,ilsts,pursuit,50,1,always_ls,0,0.02
+turn,time,nb_colors,penalty,score,solution
+0,0,6,0,40,0:1:0:1:1:0:1:1:2:2:2:2:1:2:3:2:0:4:4:3:3:5:5:4
+0,0,6,0,40,0:1:0:1:1:0:1:1:2:2:2:2:1:2:3:2:0:4:4:3:3:5:5:4
+#2022-10-11 21:30:52

@@ -1,0 +1,6 @@
+#date,problem,instance,method,rand_seed,target,use_target,objective,time_limit,nb_max_iterations,initialization,nb_iter_local_search,max_time_local_search,local_search,adaptive,window_size,coeff_exploi_explo,simulation,O_time,P_time
+#2022-10-12 18:17:37,wvcp,GEOM110b,local_search,3,37,false,reached,3600,9223372036854775807,constrained,9000000000000000000,3600,afisa_original,pursuit,50,1,always_ls,0,0.02
+turn,time,nb_colors,penalty,score,solution
+0,0,18,0,40,0:1:2:3:4:5:6:7:5:6:8:1:9:6:3:4:0:2:4:8:1:2:2:7:5:0:3:6:8:4:6:9:8:7:9:10:11:9:10:8:3:5:11:10:11:2:1:4:11:9:1:4:0:3:0:11:5:10:8:3:11:12:13:14:15:15:12:13:12:16:12:13:14:9:15:13:0:14:7:17:14:16:16:17:10:6:13:12:5:16
+44964399,0,18,0,40,0:1:2:3:4:5:6:7:5:6:8:1:9:6:3:4:0:2:4:8:1:2:2:7:5:0:3:6:8:4:6:9:8:7:9:10:11:9:10:8:3:5:11:10:11:2:1:4:11:9:1:4:0:3:0:11:5:10:8:3:11:12:13:14:15:15:12:13:12:16:12:13:14:9:15:13:0:14:7:17:14:16:16:17:10:6:13:12:5:16
+#2022-10-12 19:17:38

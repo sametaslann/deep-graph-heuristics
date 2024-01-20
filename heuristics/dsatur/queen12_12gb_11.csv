@@ -1,0 +1,5 @@
+#date,problem,instance,method,rand_seed,target,use_target,objective,time_limit,nb_max_iterations,initialization,nb_iter_local_search,max_time_local_search,bound_nb_colors,local_search,adaptive,window_size,coeff_exploi_explo,simulation,O_time,P_time
+#2023-08-24 16:05:34,wvcp,queen12_12gb,local_search,11,0,false,reached,3600,9223372036854775807,dsatur,9000000000000000000,3600,44,none,none,50,1,no_ls,0,0.02
+turn,time,nb_colors,penalty,score,solution
+0,0,19,0,230,0:0:1:0:1:2:2:1:1:2:0:2:3:1:4:3:2:0:3:4:3:0:3:5:5:4:5:2:6:5:4:6:5:3:7:1:5:1:7:0:8:2:4:1:9:6:1:6:8:9:3:4:0:0:7:6:10:6:3:5:11:7:8:6:7:9:8:4:9:8:11:6:5:3:7:1:2:7:4:9:7:10:9:10:12:8:0:11:11:9:10:12:9:5:5:10:4:13:14:15:8:13:8:4:14:11:13:3:6:9:15:12:14:10:10:13:12:16:2:11:11:2:11:12:15:17:10:13:13:13:15:15:10:4:14:18:16:6:6:16:16:7:12:12
+#2023-08-24 16:05:34

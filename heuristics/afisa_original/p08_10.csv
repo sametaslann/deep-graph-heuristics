@@ -1,0 +1,12 @@
+#date,problem,instance,method,rand_seed,target,use_target,objective,time_limit,nb_max_iterations,initialization,nb_iter_local_search,max_time_local_search,local_search,adaptive,window_size,coeff_exploi_explo,simulation,O_time,P_time
+#2022-10-12 14:42:56,wvcp,p08,local_search,10,4049,false,reached,3600,9223372036854775807,constrained,9000000000000000000,3600,afisa_original,pursuit,50,1,always_ls,0,0.02
+turn,time,nb_colors,penalty,score,solution
+0,0,6,0,4368,0:0:0:1:2:1:2:3:2:4:1:2:1:4:3:0:4:0:4:5:4:3:5:5
+504,0,5,0,4279,4:4:4:0:2:5:2:5:5:1:2:0:2:0:5:0:1:2:1:1:5:0:4:1
+505,0,5,0,4246,0:5:0:5:1:4:5:4:5:0:2:1:0:1:2:1:5:0:2:4:1:2:4:4
+506,0,5,0,4120,0:5:0:5:2:4:5:4:5:0:2:1:0:1:2:2:5:0:1:4:2:1:4:4
+509,0,5,0,4089,1:1:5:1:4:2:1:2:5:5:4:0:2:0:2:4:5:4:0:4:5:0:1:2
+512,0,5,0,4074,1:1:5:1:0:5:4:4:4:0:5:2:5:2:1:1:4:5:2:0:4:2:0:0
+573,0,5,0,4049,1:1:0:1:5:0:1:2:5:5:0:4:0:4:5:2:2:0:4:2:5:4:1:2
+573,0,5,0,4049,1:1:0:1:5:0:1:2:5:5:0:4:0:4:5:2:2:0:4:2:5:4:1:2
+#2022-10-12 14:42:57

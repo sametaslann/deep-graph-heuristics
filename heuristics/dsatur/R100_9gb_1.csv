@@ -1,0 +1,5 @@
+#date,problem,instance,method,rand_seed,target,use_target,objective,time_limit,nb_max_iterations,initialization,nb_iter_local_search,max_time_local_search,bound_nb_colors,local_search,adaptive,window_size,coeff_exploi_explo,simulation,O_time,P_time
+#2023-08-24 16:06:37,wvcp,R100_9gb,local_search,1,0,false,reached,3600,9223372036854775807,dsatur,9000000000000000000,3600,97,none,none,50,1,no_ls,0,0.02
+turn,time,nb_colors,penalty,score,solution
+0,0,47,0,550,0:1:1:2:3:0:4:5:6:8:2:7:3:6:10:9:7:11:11:12:13:8:9:4:3:10:15:16:14:5:4:5:17:18:9:8:19:20:13:18:22:12:21:19:23:15:24:2:17:17:25:26:16:11:1:7:21:23:27:25:14:20:28:26:29:14:22:24:30:31:28:32:33:25:34:35:30:36:32:24:27:37:38:39:41:31:40:42:35:43:29:6:34:44:40:45:43:40:46:12
+#2023-08-24 16:06:37
