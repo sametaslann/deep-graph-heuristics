@@ -3,7 +3,7 @@ import numpy as np
 import csv
 import sys
 
-csv.field_size_limit(sys.maxsize)
+# csv.field_size_limit(sys.maxsize)
 
 
 def read_graphs(instance_list):
